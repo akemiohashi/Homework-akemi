@@ -1,0 +1,110 @@
+/* title  */
+.container{
+    width:100vw;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title{
+    font-size: 50px;
+    font-family: ;
+}
+
+.centence{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+/* photos */
+.container1{
+    width: 100vw;
+    height: 1000px;
+    display: flex;
+    justify-content: center;
+}
+.sunset1{
+    width: 980px;
+    height: 840px;
+}
+.container2{
+    width: 100vw;
+    height: 1000px;
+    display: flex;
+    justify-content: center;
+}
+.sunset2{
+    width: 980px;
+    height: 840px;
+}
+.container3{
+    width: 100vw;
+    height: 1000px;
+    display: flex;
+    justify-content: center;
+}
+.sunset3{
+    width: 980px;
+    height: 840px;
+}
+.container4{
+    width: 100vw;
+    height: 1000px;
+    display: flex;
+    justify-content: center;
+}
+.sunset4{
+    width: 980px;
+    height: 840px;
+}
+.container5{
+    width: 100vw;
+    height: 1000px;
+    display: flex;
+    justify-content: center;
+}
+.sunset5{
+    width: 980px;
+    height: 840px;
+}
+.container6{
+    width: 100vw;
+    height: 1000px;
+    display: flex;
+    justify-content: center;
+}
+.sunrise{
+    width: 980px;
+    height: 840px;
+}
+.container7{
+    width: 100vw;
+    height: 1000px;
+    display: flex;
+    justify-content: center;
+}
+.ebisu{
+    width: 980px;
+    height: 840px;
+}
+.container8{
+    width: 100vw;
+    height: 1000px;
+    display: flex;
+    justify-content: center;
+}
+.osaka{
+    width: 980px;
+    height: 840px;
+}
+.container9{
+    width: 100vw;
+    height: 1000px;
+    display: flex;
+    justify-content: center;
+}
+.dote{
+    width: 980px;
+    height: 840px;
+}
